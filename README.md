@@ -83,18 +83,21 @@ Clone this repository to your desired folder:
 ```
 
    ### Install
-
+   
+for this project i have used yarn instead of npm.
 Install this project with:
 ```sh
   cd React-on-rails-single-app
   bundle install
   yarn add react-dom react-redux @reduxjs/toolkit axios
+   
 <!--
 Example command:
 
 ```sh
   cd React-on-rails
   gem install
+  
 ```
 --->
 
@@ -136,6 +139,18 @@ Example:
 - GitHub: [fullstop125](https://github.com/githubhandle)
 - Twitter: [@moseshassany](https://twitter.com/twitterhandle)
 - LinkedIn: [momanyi-hassan](https://linkedin.com/in/linkedinhandle)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> These are the two future features i will add to the project.
+
+- [ ] **[modern UI styling for the front-end]**
+- [ ] **[implement authentication for my app]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
